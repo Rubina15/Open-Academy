@@ -1,0 +1,4 @@
+#Mon Jan 18 12:43:15 ICT 2016
+__DEFAULT__=false
+org.eclipse.help.ui.localSearch.master=true
+expression=software update

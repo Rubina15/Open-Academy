@@ -1,0 +1,8 @@
+MODULES_MANAGER_V2
+openacademy.__init__|/home/rubins/workspace/Myaddons/openacademy/__init__.py
+openacademy.__openerp__|/home/rubins/workspace/Myaddons/openacademy/__openerp__.py
+openacademy.controllers.__init__|/home/rubins/workspace/Myaddons/openacademy/controllers/__init__.py
+openacademy.controllers.controllers|/home/rubins/workspace/Myaddons/openacademy/controllers/controllers.py
+openacademy.models.__init__|/home/rubins/workspace/Myaddons/openacademy/models/__init__.py
+openacademy.models.models|/home/rubins/workspace/Myaddons/openacademy/models/models.py
+openacademy.partner|/home/rubins/workspace/Myaddons/openacademy/partner.py

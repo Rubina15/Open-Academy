@@ -1,0 +1,46 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/home/rubins/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Myaddons/com.python.pydev.analysis/v2_indexcache
+openacademy.__openerp__|1453095727000000000|/home/rubins/workspace/Myaddons/openacademy/__openerp__.py
+openacademy.__init__|1453095711000000000|/home/rubins/workspace/Myaddons/openacademy/__init__.py
+openacademy.partner|1453095967000000000|/home/rubins/workspace/Myaddons/openacademy/partner.py
+openacademy.models.__init__|1453090846000000000|/home/rubins/workspace/Myaddons/openacademy/models/__init__.py
+openacademy.controllers.__init__|1453085670000000000|/home/rubins/workspace/Myaddons/openacademy/controllers/__init__.py
+openacademy.controllers.controllers|1453085670000000000|/home/rubins/workspace/Myaddons/openacademy/controllers/controllers.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=openacademy.partner
+2=Partner
+-- END DICTIONARY
+-- START TREE 1
+3
+cou|0|
+par|1|Partner!9@
+ses|0|
+-- END TREE
+-- START TREE 2
+22
+_ch|0|
+_ge|0|
+_in|1|_inherit!2&11@
+_na|0|
+_se|0|
+_sq|0|
+_ta|0|
+_ve|0|
+act|0|
+att|0|
+cop|0|
+cou|0|
+des|0|
+dur|0|
+end|0|
+ins|1|instructor!2&11@
+nam|0|
+res|0|
+sea|0|
+ses|1|session_id!2&11@
+sta|0|
+tak|0|
+-- END TREE
